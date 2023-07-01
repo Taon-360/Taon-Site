@@ -222,31 +222,31 @@
             <div class="col-lg-7">
               <ul>
                 <li class="reveal-effect masker wow">
-                  <img src="images/logo01.png" alt="Image" />
+                  <img src="images/logos/Base_Bizzu.jpg" alt="Image" />
                 </li>
                 <li class="reveal-effect masker wow">
-                  <img src="images/logo02.png" alt="Image" />
+                  <img src="images/logos/Base_FUSION.jpg" alt="Image" />
                 </li>
                 <li class="reveal-effect masker wow">
-                  <img src="images/logo03.png" alt="Image" />
+                  <img src="images/logos/ILP_Metais_Recycle.jpg" alt="Image" />
                 </li>
                 <li class="reveal-effect masker wow">
-                  <img src="images/logo04.png" alt="Image" />
+                  <img src="images/logos/Logo_Beats.jpg" alt="Image" />
                 </li>
                 <li class="reveal-effect masker wow">
-                  <img src="images/logo05.png" alt="Image" />
+                  <img src="images/logos/Logo_Becks.jpg" alt="Image" />
                 </li>
                 <li class="reveal-effect masker wow">
-                  <img src="images/logo06.png" alt="Image" />
+                  <img src="images/logos/Logo_Budweiser.jpg" alt="Image" />
                 </li>
                 <li class="reveal-effect masker wow">
-                  <img src="images/logo07.png" alt="Image" />
+                  <img src="images/logos/Logo_Cervejaria_Colorado.jpg" alt="Image" />
                 </li>
                 <li class="reveal-effect masker wow">
-                  <img src="images/logo08.png" alt="Image" />
+                  <img src="images/logos/Logo_do_Bem.jpg" alt="Image" />
                 </li>
                 <li class="reveal-effect masker wow">
-                  <img src="images/logo09.png" alt="Image" />
+                  <img src="images/logos/Logo_ExpertiseFreeform.jpg" alt="Image" />
                 </li>
               </ul>
             </div>
