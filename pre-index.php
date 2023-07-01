@@ -232,7 +232,7 @@
     <img id="h1" src="./images/Logo_Abertura_Site.png" alt="" />
     <canvas id="IcanvasFront"></canvas>
     <section id="section10" class="demo">
-      <a id="scrollbtn" href="index.html"><span></span></a>
+      <a id="scrollbtn" href="index.php"><span></span></a>
     </section>
     <script>
       "use strict";
@@ -248,7 +248,7 @@
         if (event.deltaY > 0) {
           let pageTrans = document.getElementsByClassName("page-transition")[0];
           pageTrans.classList += " active";
-          setTimeout(() => (window.location.href = "./index.html"), 1000);
+          setTimeout(() => (window.location.href = "./index.php"), 1000);
         }
       });
 
