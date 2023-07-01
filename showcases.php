@@ -133,139 +133,135 @@
       </div>
     </div>
     <main>
-      <aside class="left-side">
-        <div class="logo">
-          <a href="index.html"><img src="images/logo.png" alt="Image" /></a>
-        </div>
-        <!-- end logo -->
-        <div class="hamburger" id="hamburger">
-          <div class="hamburger__line hamburger__line--01">
-            <div class="hamburger__line-in hamburger__line-in--01"></div>
-          </div>
-          <div class="hamburger__line hamburger__line--02">
-            <div class="hamburger__line-in hamburger__line-in--02"></div>
-          </div>
-          <div class="hamburger__line hamburger__line--03">
-            <div class="hamburger__line-in hamburger__line-in--03"></div>
-          </div>
-          <div class="hamburger__line hamburger__line--cross01">
-            <div class="hamburger__line-in hamburger__line-in--cross01"></div>
-          </div>
-          <div class="hamburger__line hamburger__line--cross02">
-            <div class="hamburger__line-in hamburger__line-in--cross02"></div>
-          </div>
-        </div>
-        <!-- end hamburger -->
-        <div class="follow-us">Siga Nas Redes</div>
-        <!-- end follow-us -->
-        <div class="equalizer">
-          <span></span> <span></span> <span></span> <span></span>
-        </div>
-        <!-- end equalizer -->
-      </aside>
+    <?php include('components/aside.php'); ?>
       <header class="page-header">
         <div class="video-bg">
-          <img src="./images/Site_01_1920x1080_04.jpg" />
         </div>
-        <!-- end video-bg -->
         <div class="inner">
           <div class="container">
-            <h1>MIKE'S</h1>
-            <p>Projeto Mike's Friday</p>
+            <h1>Galeria</h1>
+            <p>
+              Explorando a criatividade em todos os ângulos:<br />
+              Conheça nossa galeria de projetos incríveis!
+            </p>
           </div>
           <!-- end container -->
         </div>
         <!-- end inner -->
       </header>
       <!-- end page-header -->
-      <section class="case-study">
-        <div class="container">
-          <div class="row">
-            <div class="col-12 wow" data-splitting>
-              <h3 class="section-title">
-                DIGITAL WEB PRODUCTS <br />
-                FOR AMAZING CLIENTS
-              </h3>
+      <section class="works">
+        <ul>
+          <li>
+            <figure class="reveal-effect masker wow">
+              <a href="case-single.html"
+                ><img src="images/works01.jpg" alt="Image"
+              /></a>
+            </figure>
+            <div class="caption wow" data-splitting>
+              <h3>Darkness Vehicle</h3>
+              <small>DIGITAL, PRINT, DEVELOPMENT</small>
             </div>
-            <!-- end col-12 -->
-            <div class="col-lg-8 col-md-10 wow" data-splitting>
-              <h6>DESCRIPTION</h6>
-              <p>
-                We work closely with your development team. markettting
-                profissionals and stakeholder to design and develop UX and UI
-                that make your website. application or software a joy to use,
-              </p>
+            <!-- end caption -->
+          </li>
+          <li>
+            <figure class="reveal-effect masker wow">
+              <a href="case-single.html"
+                ><img src="images/works02.jpg" alt="Image"
+              /></a>
+            </figure>
+            <div class="caption wow" data-splitting>
+              <h3>Goddes Cover Art</h3>
+              <small>PRINT, DIGITAL, DEVELOPMENT</small>
             </div>
-            <!-- end col-12	 -->
-            <div class="col-md-5 wow" data-splitting>
-              <h6>ABOUT CASE</h6>
-              <p>
-                Design and develop UX and UI that make your website. application
-                or software a joy to use,
-              </p>
+            <!-- end caption -->
+          </li>
+          <li>
+            <figure class="reveal-effect masker wow">
+              <a href="case-single.html"
+                ><img src="images/works03.jpg" alt="Image"
+              /></a>
+            </figure>
+            <div class="caption wow" data-splitting>
+              <h3>Hard Employee</h3>
+              <small>WEB, DIGITAL, DEVELOPMENT</small>
             </div>
-            <!-- end col-6 -->
-            <div class="col-md-5 wow" data-splitting>
-              <h6>CASE LAUNCH</h6>
-              <p>20, Semptember 2022 - Web design & Mobile app</p>
+            <!-- end caption -->
+          </li>
+          <li>
+            <figure class="reveal-effect masker wow">
+              <a href="case-single.html"
+                ><img src="images/works04.jpg" alt="Image"
+              /></a>
+            </figure>
+            <div class="caption wow" data-splitting>
+              <h3>Construction Man</h3>
+              <small>DIGITAL, PRINT, DEVELOPMENT</small>
             </div>
-            <!-- end col-6 -->
-          </div>
-          <!-- edn row -->
-        </div>
-        <!-- end container -->
-        <div class="container-fluid">
-          <div class="row">
-            <div class="col-12">
-              <figure>
-                <video src="videos/TVS_1280X720PX.mp4" muted controls></video>
-              </figure>
+            <!-- end caption -->
+          </li>
+          <li>
+            <figure class="reveal-effect masker wow">
+              <a href="case-single.html"
+                ><img src="images/works05.jpg" alt="Image"
+              /></a>
+            </figure>
+            <div class="caption wow" data-splitting>
+              <h3>King of Roosters</h3>
+              <small>PRINT, DIGITAL, DEVELOPMENT</small>
             </div>
-            <!-- end col-12 -->
-            <div class="col-md-4">
-              <figure>
-                <img src="images/Site_01_780x1000_01.jpg" alt="Image" />
-              </figure>
+            <!-- end caption -->
+          </li>
+          <li>
+            <figure class="reveal-effect masker wow">
+              <a href="case-single.html"
+                ><img src="images/works06.jpg" alt="Image" />
+              </a>
+            </figure>
+            <div class="caption wow" data-splitting>
+              <h3>Primero Car</h3>
+              <small>WEB, DIGITAL, DEVELOPMENT</small>
             </div>
-            <!-- end col-4 -->
-            <div class="col-md-4">
-              <figure>
-                <img src="images/Site_01_780x1000_02.jpg" alt="Image" />
-              </figure>
+            <!-- end caption -->
+          </li>
+          <li>
+            <figure class="reveal-effect masker wow">
+              <a href="case-single.html"
+                ><img src="images/works07.jpg" alt="Image"
+              /></a>
+            </figure>
+            <div class="caption wow" data-splitting>
+              <h3>Sweet Berry Pie</h3>
+              <small>DIGITAL, PRINT, DEVELOPMENT</small>
             </div>
-            <!-- end col-4 -->
-            <div class="col-md-4">
-              <figure>
-                <img src="images/Site_01_780x1000_03.jpg" alt="Image" />
-              </figure>
+            <!-- end caption -->
+          </li>
+          <li>
+            <figure class="reveal-effect masker wow">
+              <a href="case-single.html"
+                ><img src="images/works08.jpg" alt="Image"
+              /></a>
+            </figure>
+            <div class="caption wow" data-splitting>
+              <h3>Iron Swimmer</h3>
+              <small>PRINT, DIGITAL, DEVELOPMENT</small>
             </div>
-            <!-- end col-4 -->
-            <div class="col-md-6">
-              <figure>
-                <img src="images/Site_01_780x1000_04.jpg" alt="Image" />
-              </figure>
+            <!-- end caption -->
+          </li>
+          <li>
+            <figure class="reveal-effect masker wow">
+              <a href="case-single.html"
+                ><img src="images/works09.jpg" alt="Image" />
+              </a>
+            </figure>
+            <div class="caption wow" data-splitting>
+              <h3>Plants Women</h3>
+              <small>WEB, DIGITAL, DEVELOPMENT</small>
             </div>
-            <!-- end col-6 -->
-            <div class="col-md-6">
-              <figure>
-                <img src="images/Site_01_780x1000_01.jpg" alt="Image" />
-              </figure>
-            </div>
-            <!-- end col-6 -->
-            <!-- <div class="col-12">
-              <figure><img src="images/slide01.jpg" alt="Image" /></figure>
-            </div> -->
-            <!-- end col-12 -->
-            <div class="col-12 wow" data-splitting>
-              <h5>OBRIGADO PELA ATENÇÃO!</h5>
-            </div>
-            <!-- end col-12 -->
-          </div>
-          <!-- end row -->
-        </div>
-        <!-- end container-fluid -->
+            <!-- end caption -->
+          </li>
+        </ul>
       </section>
-      <!-- end case-study -->
     </main>
     <!-- end main -->
     <footer class="footer">
@@ -284,12 +280,14 @@
             </h2>
             <a href="#" class="link">Entre em Contato</a>
           </div>
+          <!-- end col-12 -->
           <div class="col-12">
             <div class="footer-bar">
               <span class="copyright"
                 >© 2023 Tá-ON Agência 360 | Todos os Direitos Reservados</span
               >
             </div>
+            <!-- end footer-bar -->
           </div>
           <!-- end col-12 -->
         </div>

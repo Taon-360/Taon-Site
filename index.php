@@ -1,125 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1, shrink-to-fit=no"
-    />
-    <meta name="format-detection" content="telephone=no" />
-    <meta name="theme-color" content="#75dab4" />
-    <title>Tourog | Creative Agensy for Digital Age</title>
-    <meta name="author" content="Themezinho" />
-    <meta
-      name="description"
-      content="Tourog | Creative Agensy for Digital Age"
-    />
-    <meta
-      name="keywords"
-      content="creative, works, showcase, portfolio, highlight, projects, modern, tourog, digital, studio, css, animation, transition, freelancers"
-    />
 
-    <!-- SOCIAL MEDIA META -->
-    <meta
-      property="og:description"
-      content="Tourog | Creative Agensy for Digital Age"
-    />
-    <meta
-      property="og:image"
-      content="http://www.themezinho.net/tourog/preview.png"
-    />
-    <meta property="og:site_name" content="tourog" />
-    <meta property="og:title" content="tourog" />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="http://www.themezinho.net/tourog" />
+  <?php include('components/head.php'); ?>
 
-    <!-- TWITTER META -->
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@tourog" />
-    <meta name="twitter:creator" content="@tourog" />
-    <meta name="twitter:title" content="tourog" />
-    <meta
-      name="twitter:description"
-      content="Tourog | Creative Agensy for Digital Age"
-    />
-    <meta
-      name="twitter:image"
-      content="http://www.themezinho.net/tourog/preview.png"
-    />
-
-    <!-- FAVICON FILES -->
-    <link
-      href="ico/apple-touch-icon-144-precomposed.png"
-      rel="apple-touch-icon"
-      sizes="144x144"
-    />
-    <link
-      href="ico/apple-touch-icon-114-precomposed.png"
-      rel="apple-touch-icon"
-      sizes="114x114"
-    />
-    <link
-      href="ico/apple-touch-icon-72-precomposed.png"
-      rel="apple-touch-icon"
-      sizes="72x72"
-    />
-    <link
-      href="ico/apple-touch-icon-57-precomposed.png"
-      rel="apple-touch-icon"
-    />
-    <link href="ico/favicon.png" rel="shortcut icon" />
-
-    <!-- CSS FILES -->
-    <link rel="stylesheet" href="css/fontawesome.min.css" />
-    <link rel="stylesheet" href="css/fancybox.min.css" />
-    <link rel="stylesheet" href="css/hamburger.min.css" />
-    <link rel="stylesheet" href="css/odometer.min.css" />
-    <link rel="stylesheet" href="css/swiper.min.css" />
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
-    <link rel="stylesheet" href="css/style.css" />
-  </head>
   <body>
-    <div class="preloader">
-      <div class="layer"></div>
-      <!-- end layer -->
-      <div class="inner">
-        <figure><img src="images/preloader.gif" alt="Image" /></figure>
-        <span>Site Carregando</span>
-      </div>
-      <!-- end inner -->
-    </div>
-    <!-- end preloader -->
-    <div class="page-transition">
-      <div class="layer"></div>
-      <!-- end layer -->
-    </div>
-    <!-- end page-transition -->
-    <nav class="site-navigation">
-      <div class="layer"></div>
-      <!-- end layer -->
-      <div class="inner">
-        <ul data-splitting>
-          <li>
-            <a href="index.html">HOME</a>
-          </li>
-          <li>
-            <a href="studio.html">QUEM SOMOS</a>
-            <small>O mundo Tá-ON!</small>
-          </li>
-          <li>
-            <a href="showcases.html">GALERIA</a>
-            <small>Nossos Projetos</small>
-          </li>
-          <li><a href="blog.html">BLOG</a> <small>Posts Recentes</small></li>
-          <li>
-            <a href="contact.html">CONTATO</a>
-            <small>Conecte-se Conosco!</small>
-          </li>
-        </ul>
-      </div>
-      <!-- end inner -->
-    </nav>
-    <!-- end site-navigation -->
+
+  <?php include('components/preloader.php'); ?>
+
+  <?php include('components/nav.php'); ?>
+
     <div class="social-media">
       <div class="layer"></div>
       <!-- end layer -->
@@ -133,36 +22,9 @@
       </div>
     </div>
     <main>
-      <aside class="left-side">
-        <div class="logo">
-          <a href="index.html"><img src="images/logo.png" alt="Image" /></a>
-        </div>
-        <!-- end logo -->
-        <div class="hamburger" id="hamburger">
-          <div class="hamburger__line hamburger__line--01">
-            <div class="hamburger__line-in hamburger__line-in--01"></div>
-          </div>
-          <div class="hamburger__line hamburger__line--02">
-            <div class="hamburger__line-in hamburger__line-in--02"></div>
-          </div>
-          <div class="hamburger__line hamburger__line--03">
-            <div class="hamburger__line-in hamburger__line-in--03"></div>
-          </div>
-          <div class="hamburger__line hamburger__line--cross01">
-            <div class="hamburger__line-in hamburger__line-in--cross01"></div>
-          </div>
-          <div class="hamburger__line hamburger__line--cross02">
-            <div class="hamburger__line-in hamburger__line-in--cross02"></div>
-          </div>
-        </div>
-        <!-- end hamburger -->
-        <div class="follow-us">Siga Nas Redes</div>
-        <!-- end follow-us -->
-        <div class="equalizer">
-          <span></span> <span></span> <span></span> <span></span>
-        </div>
-        <!-- end equalizer -->
-      </aside>
+
+    <?php include('components/aside.php'); ?>
+      
       <header class="slider">
         <div class="swiper-container gallery-top">
           <div class="swiper-wrapper">
@@ -195,7 +57,7 @@
         <div class="swiper-container gallery-thumbs">
           <div class="swiper-wrapper">
             <div class="swiper-slide">
-              <span>Transforme</span> <a href="#">Ideias em Resultados!</a>
+              <span>Transforme</span> <a href="#">Ideias em Resultados!</a><?= "teste" ?>
             </div>
             <div class="swiper-slide">
               <span>Desperte</span>
@@ -397,47 +259,8 @@
       <!-- end clients -->
     </main>
     <!-- end main -->
-    <footer class="footer">
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <ul>
-              <li>
-                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-              </li>
-            </ul>
-            <h6>VAMOS FALAR SOBRE O SEU PRÓXIMO PROJETO?</h6>
-            <h2>
-              Precisa de mais informações ou <br />
-              quer entrar em contato?
-            </h2>
-            <a href="#" class="link">Entre em Contato</a>
-          </div>
-          <!-- end col-12 -->
-          <div class="col-12">
-            <div class="footer-bar">
-              <span class="copyright"
-                >© 2023 Tá-ON Agência 360 | Todos os Direitos Reservados</span
-              >
-            </div>
-            <!-- end footer-bar -->
-          </div>
-          <!-- end col-12 -->
-        </div>
-        <!-- end row -->
-      </div>
-      <!-- end container -->
-    </footer>
-    <!-- end footer -->
 
-    <!-- JS FILES -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/swiper.min.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script src="js/splitting.min.js"></script>
-    <script src="js/odometer.min.js"></script>
-    <script src="js/fancybox.min.js"></script>
-    <script src="js/scripts.js"></script>
+    <?php include('components/footer.php'); ?>
+
   </body>
 </html>
