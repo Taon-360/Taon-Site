@@ -100,19 +100,19 @@
       <div class="inner">
         <ul data-splitting>
           <li>
-            <a href="index.html">HOME</a>
+            <a href="index.php">HOME</a>
           </li>
           <li>
-            <a href="studio.html">QUEM SOMOS</a>
+            <a href="studio.php">QUEM SOMOS</a>
             <small>O mundo Tá-ON!</small>
           </li>
           <li>
-            <a href="showcases.html">GALERIA</a>
+            <a href="showcases.php">GALERIA</a>
             <small>Nossos Projetos</small>
           </li>
-          <li><a href="blog.html">BLOG</a> <small>Posts Recentes</small></li>
+          <li><a href="blog.php">BLOG</a> <small>Posts Recentes</small></li>
           <li>
-            <a href="contact.html">CONTATO</a>
+            <a href="contact.php">CONTATO</a>
             <small>Conecte-se Conosco!</small>
           </li>
         </ul>
@@ -154,7 +154,7 @@
         <ul>
           <li>
             <figure class="reveal-effect masker wow">
-              <a href="case-single.html"
+              <a href="case-single.php"
                 ><img src="images/works01.jpg" alt="Image"
               /></a>
             </figure>
@@ -166,7 +166,7 @@
           </li>
           <li>
             <figure class="reveal-effect masker wow">
-              <a href="case-single.html"
+              <a href="case-single.php"
                 ><img src="images/works02.jpg" alt="Image"
               /></a>
             </figure>
@@ -178,7 +178,7 @@
           </li>
           <li>
             <figure class="reveal-effect masker wow">
-              <a href="case-single.html"
+              <a href="case-single.php"
                 ><img src="images/works03.jpg" alt="Image"
               /></a>
             </figure>
@@ -190,7 +190,7 @@
           </li>
           <li>
             <figure class="reveal-effect masker wow">
-              <a href="case-single.html"
+              <a href="case-single.php"
                 ><img src="images/works04.jpg" alt="Image"
               /></a>
             </figure>
@@ -202,7 +202,7 @@
           </li>
           <li>
             <figure class="reveal-effect masker wow">
-              <a href="case-single.html"
+              <a href="case-single.php"
                 ><img src="images/works05.jpg" alt="Image"
               /></a>
             </figure>
@@ -214,7 +214,7 @@
           </li>
           <li>
             <figure class="reveal-effect masker wow">
-              <a href="case-single.html"
+              <a href="case-single.php"
                 ><img src="images/works06.jpg" alt="Image" />
               </a>
             </figure>
@@ -226,7 +226,7 @@
           </li>
           <li>
             <figure class="reveal-effect masker wow">
-              <a href="case-single.html"
+              <a href="case-single.php"
                 ><img src="images/works07.jpg" alt="Image"
               /></a>
             </figure>
@@ -238,7 +238,7 @@
           </li>
           <li>
             <figure class="reveal-effect masker wow">
-              <a href="case-single.html"
+              <a href="case-single.php"
                 ><img src="images/works08.jpg" alt="Image"
               /></a>
             </figure>
@@ -250,7 +250,7 @@
           </li>
           <li>
             <figure class="reveal-effect masker wow">
-              <a href="case-single.html"
+              <a href="case-single.php"
                 ><img src="images/works09.jpg" alt="Image" />
               </a>
             </figure>

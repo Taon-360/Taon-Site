@@ -1,6 +1,6 @@
 <aside class="left-side">
     <div class="logo">
-        <a href="index.html"><img src="images/logo.png" alt="Image" /></a>
+        <a href="index.php"><img src="images/logo.png" alt="Image" /></a>
     </div>
     <!-- end logo -->
     <div class="hamburger" id="hamburger">
