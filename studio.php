@@ -140,6 +140,87 @@
               <div class="testimonials-slider">
                 <div class="swiper-wrapper">
                   <div class="swiper-slide">
+                    <div class="testimonial">
+                      <a
+                        href="https://www.linkedin.com/feed/update/urn:li:activity:7077002885607141377/"
+                        target="_blank"
+                      >
+                        <blockquote>
+                          Eles superaram todas as minhas expectativas ao criar
+                          um site incrível, otimizando meu perfil no LinkedIn,
+                          criando um design impressionante para meus emails,
+                          cartões de visita profissionais e uma apresentação
+                          excepcional da minha empresa.
+                        </blockquote>
+                      </a>
+                      <div class="reviewer">
+                        <img src="images/leandro.jpg" alt="Image" />
+                        <div class="reviewer-infos">
+                          <h6>Leandro Godoy</h6>
+                          <small>CEO na Recycle ILP Metais</small>
+                        </div>
+                        <!-- end reviewer-infos -->
+                      </div>
+                      <!-- end reviewers -->
+                    </div>
+                    <!-- end testimonial -->
+                  </div>
+                  <!-- end swiper-slide -->
+                  <div class="swiper-slide">
+                    <div class="testimonial">
+                      <a
+                        href="https://www.linkedin.com/feed/update/urn:li:activity:7079826101249744896/"
+                        target="_blank"
+                      >
+                        <blockquote>
+                          A qualidade do trabalho entregue pela AGÊNCIA TÁ-ON
+                          360. foi verdadeiramente excepcional. Cada projeto foi
+                          conduzido com profissionalismo, dedicação e atenção
+                          aos detalhes. Sempre estiveram disponíveis para
+                          esclarecer nossas dúvidas.
+                        </blockquote>
+                      </a>
+                      <div class="reviewer">
+                        <img src="images/marcelo.jpg" alt="Image" />
+                        <div class="reviewer-infos">
+                          <h6>Marcelo Martino</h6>
+                          <small>Consultor Snr na Logical Travel</small>
+                        </div>
+                        <!-- end reviewer-infos -->
+                      </div>
+                      <!-- end reviewers -->
+                    </div>
+                    <!-- end testimonial -->
+                  </div>
+                  <!-- end swiper-slide -->
+                </div>
+                <!-- end swiper-wrapper -->
+                <div class="swiper-pagination"></div>
+                <!-- end swiper-pagination -->
+              </div>
+              <!-- end testimonials-slider -->
+            </div>
+            <!-- end col-6 -->
+            <div class="col-lg-6 wow" data-splitting>
+              <h3 class="section-title">
+                A TÁ-ON<br />
+                SE ORGULHA<br />
+                DE SEUS PARCEIROS
+              </h3>
+              <a href="#"></a>
+            </div>
+            <!-- end col-6 -->
+          </div>
+          <!-- end row -->
+        </div>
+        <!-- end container -->
+      </section>
+        <div class="container">
+          <div class="row align-items-center">
+            <div class="col-lg-6">
+              <div class="testimonials-slider">
+                <div class="swiper-wrapper">
+                  <div class="swiper-slide">
                     <div class="testimonial wow" data-splitting>
                       <blockquote>
                         We work closely with your development team. markettting
