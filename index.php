@@ -30,15 +30,15 @@
           <div class="swiper-wrapper">
             <div
               class="swiper-slide"
-              data-background="images/slide01.png"
+              data-background="images/carrossel/Banner_Carrossel_Home_01.jpg"
             ></div>
             <div
               class="swiper-slide"
-              data-background="images/slide02.jpg"
+              data-background="images/carrossel/Banner_Carrossel_Home_02.jpg"
             ></div>
             <div
               class="swiper-slide"
-              data-background="images/slide02.jpg"
+              data-background="images/carrossel/Banner_Carrossel_Home_03.jpg"
             ></div>
           </div>
           <!-- end swiper-wrapper -->
@@ -57,7 +57,7 @@
         <div class="swiper-container gallery-thumbs">
           <div class="swiper-wrapper">
             <div class="swiper-slide">
-              <span>Transforme</span> <a href="#">Ideias em Resultados!</a><?= "teste" ?>
+              <span>Transforme</span> <a href="#">Ideias em Resultados!</a>
             </div>
             <div class="swiper-slide">
               <span>Desperte</span>
