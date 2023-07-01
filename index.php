@@ -134,7 +134,7 @@
         <ul>
           <li>
             <figure class="reveal-effect masker wow">
-              <a href="case-single.html"
+              <a href="case-single.php"
                 ><img src="images/Site_01_780x1000_02.jpg" alt="Image"
               /></a>
             </figure>
