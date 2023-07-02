@@ -198,6 +198,50 @@
                                 <img src="images/logos/Logo_ExpertiseFreeform.jpg" alt="Image" />
                             </li>
                         </ul>
+
+                    </div>
+                    <!-- end col-7 -->
+                </div>
+                <div class="row">
+                    <!-- end col-5 -->
+                    <div class="col-lg-7">
+                        <ul>
+                            <li class="reveal-effect masker wow">
+                                <img src="images/logos/Logo_Gatorade.jpg" alt="Image" />
+                            </li>
+                            <li class="reveal-effect masker wow">
+                                <img src="images/logos/Logo_Guaraná.jpg" alt="Image" />
+                            </li>
+                            <li class="reveal-effect masker wow">
+                                <img src="images/logos/Logo_Leroy_Merlin.jpg" alt="Image" />
+                            </li>
+                            <li class="reveal-effect masker wow">
+                                <img src="images/logos/Logo_Logica_Travel.jpg" alt="Image" />
+                            </li>
+                            <li class="reveal-effect masker wow">
+                                <img src="images/logos/Logo_Mike's.jpg" alt="Image" />
+                            </li>
+                            <li class="reveal-effect masker wow">
+                                <img src="images/logos/Logo_NCO.jpg" alt="Image" />
+                            </li>
+                            <li class="reveal-effect masker wow">
+                                <img src="images/logos/Logo_Portarias1.jpg" alt="Image" />
+                            </li>
+                            <li class="reveal-effect masker wow">
+                                <img src="images/logos/Logo_Skol.jpg" alt="Image" />
+                            </li>
+                            <li class="reveal-effect masker wow">
+                                <img src="images/logos/Logo_Tônica_Antartica.jpg" alt="Image" />
+                            </li>
+                        </ul>
+
+                    </div>
+                    <div class="col-lg-5 wow" data-splitting>
+                        <h4 class="section-title">
+                            VAMOS ALÉM, <br />
+                            ULTRAPASSANDO <br />
+                            TODAS AS EXPECTATIVAS!
+                        </h4>
                     </div>
                     <!-- end col-7 -->
                 </div>
