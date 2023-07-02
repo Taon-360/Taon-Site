@@ -14,7 +14,7 @@
         <a href="showcases.php">GALERIA</a>
         <small>Nossos Projetos</small>
         </li> -->
-            <li><a href="blog.php">BLOG</a> <small>Posts Recentes</small></li>
+            <!-- <li><a href="blog.php">BLOG</a> <small>Posts Recentes</small></li> -->
             <li>
                 <a href="contact.php">CONTATO</a>
                 <small>Conecte-se Conosco!</small>
