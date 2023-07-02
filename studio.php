@@ -239,7 +239,7 @@
             <!-- end container -->
         </section>
         <!-- end testimonials -->
-        <section class="team">
+        <!-- <section class="team">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 wow" data-splitting>
@@ -247,20 +247,20 @@
                             NOSSO TIME<br />
                             TÁ-ON
                         </h3>
-                    </div>
-                    <!-- end col-8 -->
-                    <div class="col-lg-6 wow" data-splitting>
+                    </div> -->
+        <!-- end col-8 -->
+        <!-- <div class="col-lg-6 wow" data-splitting>
                         <h5>
                             Na Tá-ON Agência 360, somos uma equipe apaixonada pela
                             publicidade digital. Nossos profissionais são entusiastas,
                             buscando constantemente inovação e aprimoramento para entregar
                             resultados excepcionais. Mergulhamos de cabeça em cada projeto,
                             transformando ideias em realidade.
-                    </div>
-                    <!-- end col-4 -->
-                </div>
-                <!-- end row -->
-                <div class="row">
+                    </div> -->
+        <!-- end col-4 -->
+        <!-- </div> -->
+        <!-- end row -->
+        <!-- <div class="row">
                     <div class="col">
                         <figure class="reveal-effect masker wow">
                             <ul>
@@ -280,10 +280,10 @@
                                 <small>HEAD DE CONEXÕES E DESENVOLVIMENTO</small>
                             </figcaption>
                         </figure>
-                    </div>
-                    <!-- end col -->
+                    </div> -->
+        <!-- end col -->
 
-                    <div class="col">
+        <!-- <div class="col">
                         <figure class="reveal-effect masker wow">
                             <ul>
                                 <li>
@@ -302,10 +302,10 @@
                                 <small>HEAD DE CONEXÕES E DESENVOLVIMENTO</small>
                             </figcaption>
                         </figure>
-                    </div>
-                    <!-- end col -->
+                    </div> -->
+        <!-- end col -->
 
-                    <div class="col">
+        <!-- <div class="col">
                         <figure class="reveal-effect masker wow">
                             <ul>
                                 <li>
@@ -324,9 +324,9 @@
                                 <small>HEAD DE CONEXÕES E DESENVOLVIMENTO</small>
                             </figcaption>
                         </figure>
-                    </div>
-                    <!-- end col -->
-                    <div class="col">
+                    </div> -->
+        <!-- end col -->
+        <!-- <div class="col">
                         <figure class="reveal-effect masker wow">
                             <ul>
                                 <li>
@@ -345,9 +345,9 @@
                                 <small>HEAD DE CONEXÕES E DESENVOLVIMENTO</small>
                             </figcaption>
                         </figure>
-                    </div>
-                    <!-- end col -->
-                    <div class="col">
+                    </div> -->
+        <!-- end col -->
+        <!-- <div class="col">
                         <figure class="reveal-effect masker wow">
                             <ul>
                                 <li>
@@ -366,13 +366,13 @@
                                 <small>HEAD DE CONEXÕES E DESENVOLVIMENTO</small>
                             </figcaption>
                         </figure>
-                    </div>
-                    <!-- end col -->
-                </div>
-                <!-- end row -->
-            </div>
-            <!-- end container -->
-        </section>
+                    </div> -->
+        <!-- end col -->
+        <!-- </div> -->
+        <!-- end row -->
+        <!-- </div> -->
+        <!-- end container -->
+        <!-- </section> -->
         <!-- end team -->
     </main>
     <!-- end main -->
