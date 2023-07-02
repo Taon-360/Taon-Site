@@ -63,9 +63,10 @@
             <!-- end video-bg -->
             <div class="inner">
                 <div class="container">
-                    <h1>STUDIO</h1>
+                    <h1>SOBRE NÓS</h1>
                     <p>
-                        We provide a free day to experience our benefits of digital world
+                        Nós somos a Ta <b style="font-weight: bold;">On</b> Agência 360: Impulsionando a Criatividade e
+                        o Sucesso
                     </p>
                 </div>
                 <!-- end container -->
@@ -77,37 +78,52 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 wow" data-splitting>
-                        <h3 class="section-title">
+                        <h3 style="text-align: center" class="section-title">
                             Gerando Conexões <br />
                             e Valorizando sua Marca
                         </h3>
                     </div>
                     <!-- end col-12 -->
                     <div class="col-12 wow" data-splitting>
-                        <h5>
-                            Tá <b>ON</b>, aí? É assim que muitas vezes iniciamos nosso dia, imersos em um mundo cada vez
+                        <h5 style="text-align: center;padding-right: 0px">
+                            Tá <b style="font-weight: bold;color: #4db249 ">ON</b>, aí? É assim que muitas vezes
+                            iniciamos nosso dia,
+                            imersos em um mundo cada vez
                             mais
-                            conectado. Nosso cotidiano está mergulhado no universo do <b>ON</b>, e nós somos parte de
+                            conectado. <br /> Nosso cotidiano está mergulhado no universo do <b
+                                style="font-weight: bold;color: #4db249 ">ON</b>, e nós somos
+                            parte de
                             uma
-                            geração que está atenta ao novo, ao único e personalizado. Com esse olhar, valorizamos a sua
+                            geração que está atenta ao novo, <br /> ao único e personalizado. Com esse olhar,
+                            valorizamos a sua
                             marca, criando laços e encurtando distâncias.
                         </h5>
                     </div>
                     <div class="col-12 wow" data-splitting>
-                        <h5>
-                            O <b>ON</b> nos fortalece, impulsiona a gerar conexões entre a sua empresa e o seu cliente.
-                            Através dessas conexões, aprendemos e evoluímos, tornando nosso <b>ON</b> mais humano a cada
+                        <h5 style="text-align: center;padding-right: 0px">
+                            O <b style="font-weight: bold;color: #4db249 ">ON</b> nos fortalece, impulsiona a gerar
+                            conexões entre a sua
+                            empresa e o seu cliente.
+                            Através dessas conexões, <br /> aprendemos e evoluímos, tornando nosso <b
+                                style="font-weight: bold;color: #4db249 ">ON</b> mais humano
+                            a cada
                             dia.
-                            Acreditamos na criação coletiva, inventiva, acolhedora e surpreendente. Cada projeto que nos
-                            envolvemos é um universo diferente, repleto de possibilidades, pois o <b>ON</b> não conhece
+                            Acreditamos na criação coletiva,<br /> inventiva, acolhedora e surpreendente. Cada projeto
+                            que nos
+                            envolvemos é um universo diferente,<br /> repleto de possibilidades, pois o <b
+                                style="font-weight: bold;color: #4db249 ">ON</b> não
+                            conhece
                             limites.
                             <br />
                             <br />
                             <br />
                             Então, você está on? Está pronto para embarcar nessa jornada de conexões e valorização da
-                            sua marca? Junte-se a nós, uma geração que vive intensamente o <b>ON</b> e acredita no poder
+                            sua marca?<br /> Junte-se a nós, uma geração que vive intensamente o <b
+                                style="font-weight: bold;color: #4db249 ">ON</b> e acredita no
+                            poder
                             da
-                            colaboração. Estamos aqui para transformar ideias em realidade, explorando o potencial
+                            colaboração.<br /> Estamos aqui para transformar ideias em realidade, explorando <br /> o
+                            potencial
                             criativo e construindo um futuro inovador.
                         </h5>
                     </div>
