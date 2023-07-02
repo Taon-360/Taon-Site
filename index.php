@@ -9,18 +9,8 @@
 
     <?php include('components/nav.php'); ?>
 
-    <div class="social-media">
-        <div class="layer"></div>
-        <!-- end layer -->
-        <div class="inner">
-            <h5>Redes Sociais</h5>
-            <ul>
-                <li>
-                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                </li>
-            </ul>
-        </div>
-    </div>
+    <?php include('components/socialmedia.php'); ?>
+
     <main>
 
         <?php include('components/aside.php'); ?>

@@ -9,53 +9,12 @@
 
     <?php include('components/nav.php'); ?>
 
-    <nav class="site-navigation">
-        <div class="layer"></div>
-        <!-- end layer -->
-        <div class="inner">
-            <ul data-splitting>
-                <li>
-                    <a href="index.php">HOME</a>
-                </li>
-                <li>
-                    <a href="studio.php">QUEM SOMOS</a>
-                    <small>O mundo Tá-ON!</small>
-                </li>
-                <li>
-                    <a href="showcases.php">GALERIA</a>
-                    <small>Nossos Projetos</small>
-                </li>
-                <li><a href="blog.php">BLOG</a> <small>Posts Recentes</small></li>
-                <li>
-                    <a href="contact.php">CONTATO</a>
-                    <small>Conecte-se Conosco!</small>
-                </li>
-            </ul>
-        </div>
-        <!-- end inner -->
-    </nav>
-    <!-- end site-navigation -->
-    <div class="social-media">
-        <div class="layer"></div>
-        <!-- end layer -->
-        <div class="inner">
-            <h5>Redes Sociais</h5>
-            <ul>
-
-                <li>
-                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                </li>
-
-            </ul>
-        </div>
-    </div>
+    <?php include('components/socialmedia.php'); ?>
 
     <main>
 
         <?php include('components/aside.php'); ?>
 
-        <!-- end left-side -->
-        <!-- end all-cases-link -->
         <header class="page-header">
             <div class="video-bg">
                 <img src="./images/bg.png" alt="" srcset="" />
