@@ -49,7 +49,7 @@ try {
     $mail->AltBody = $body;
 
     $mail->send();
-    echo 'Message has been sent';
+    echo 'Mensagem foi enviada';
 } catch (Exception $e) {
-    echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+    echo "Mensagem não pode ser enviada. Erro: {$mail->ErrorInfo}";
 }

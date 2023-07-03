@@ -9,53 +9,12 @@
 
     <?php include('components/nav.php'); ?>
 
-    <nav class="site-navigation">
-        <div class="layer"></div>
-        <!-- end layer -->
-        <div class="inner">
-            <ul data-splitting>
-                <li>
-                    <a href="index.php">HOME</a>
-                </li>
-                <li>
-                    <a href="studio.php">QUEM SOMOS</a>
-                    <small>O mundo Tá-ON!</small>
-                </li>
-                <li>
-                    <a href="showcases.php">GALERIA</a>
-                    <small>Nossos Projetos</small>
-                </li>
-                <li><a href="blog.php">BLOG</a> <small>Posts Recentes</small></li>
-                <li>
-                    <a href="contact.php">CONTATO</a>
-                    <small>Conecte-se Conosco!</small>
-                </li>
-            </ul>
-        </div>
-        <!-- end inner -->
-    </nav>
-    <!-- end site-navigation -->
-    <div class="social-media">
-        <div class="layer"></div>
-        <!-- end layer -->
-        <div class="inner">
-            <h5>Redes Sociais</h5>
-            <ul>
-
-                <li>
-                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                </li>
-
-            </ul>
-        </div>
-    </div>
+    <?php include('components/socialmedia.php'); ?>
 
     <main>
 
         <?php include('components/aside.php'); ?>
 
-        <!-- end left-side -->
-        <!-- end all-cases-link -->
         <header class="page-header">
             <div class="video-bg">
                 <img src="./images/bg.png" alt="" srcset="" />
@@ -63,9 +22,10 @@
             <!-- end video-bg -->
             <div class="inner">
                 <div class="container">
-                    <h1>STUDIO</h1>
+                    <h1>SOBRE NÓS</h1>
                     <p>
-                        We provide a free day to experience our benefits of digital world
+                        Nós somos a Ta <b style="font-weight: bold;">On</b> Agência 360: Impulsionando a Criatividade e
+                        o Sucesso
                     </p>
                 </div>
                 <!-- end container -->
@@ -77,37 +37,52 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 wow" data-splitting>
-                        <h3 class="section-title">
+                        <h3 style="text-align: center" class="section-title">
                             Gerando Conexões <br />
                             e Valorizando sua Marca
                         </h3>
                     </div>
                     <!-- end col-12 -->
                     <div class="col-12 wow" data-splitting>
-                        <h5>
-                            Tá <b>ON</b>, aí? É assim que muitas vezes iniciamos nosso dia, imersos em um mundo cada vez
+                        <h5 style="text-align: center;padding-right: 0px">
+                            Tá <b style="font-weight: bold;color: #4db249 ">ON</b>, aí? É assim que muitas vezes
+                            iniciamos nosso dia,
+                            imersos em um mundo cada vez
                             mais
-                            conectado. Nosso cotidiano está mergulhado no universo do <b>ON</b>, e nós somos parte de
+                            conectado. <br /> Nosso cotidiano está mergulhado no universo do <b
+                                style="font-weight: bold;color: #4db249 ">ON</b>, e nós somos
+                            parte de
                             uma
-                            geração que está atenta ao novo, ao único e personalizado. Com esse olhar, valorizamos a sua
+                            geração que está atenta ao novo, <br /> ao único e personalizado. Com esse olhar,
+                            valorizamos a sua
                             marca, criando laços e encurtando distâncias.
                         </h5>
                     </div>
                     <div class="col-12 wow" data-splitting>
-                        <h5>
-                            O <b>ON</b> nos fortalece, impulsiona a gerar conexões entre a sua empresa e o seu cliente.
-                            Através dessas conexões, aprendemos e evoluímos, tornando nosso <b>ON</b> mais humano a cada
+                        <h5 style="text-align: center;padding-right: 0px">
+                            O <b style="font-weight: bold;color: #4db249 ">ON</b> nos fortalece, impulsiona a gerar
+                            conexões entre a sua
+                            empresa e o seu cliente.
+                            Através dessas conexões, <br /> aprendemos e evoluímos, tornando nosso <b
+                                style="font-weight: bold;color: #4db249 ">ON</b> mais humano
+                            a cada
                             dia.
-                            Acreditamos na criação coletiva, inventiva, acolhedora e surpreendente. Cada projeto que nos
-                            envolvemos é um universo diferente, repleto de possibilidades, pois o <b>ON</b> não conhece
+                            Acreditamos na criação coletiva,<br /> inventiva, acolhedora e surpreendente. Cada projeto
+                            que nos
+                            envolvemos é um universo diferente,<br /> repleto de possibilidades, pois o <b
+                                style="font-weight: bold;color: #4db249 ">ON</b> não
+                            conhece
                             limites.
                             <br />
                             <br />
                             <br />
                             Então, você está on? Está pronto para embarcar nessa jornada de conexões e valorização da
-                            sua marca? Junte-se a nós, uma geração que vive intensamente o <b>ON</b> e acredita no poder
+                            sua marca?<br /> Junte-se a nós, uma geração que vive intensamente o <b
+                                style="font-weight: bold;color: #4db249 ">ON</b> e acredita no
+                            poder
                             da
-                            colaboração. Estamos aqui para transformar ideias em realidade, explorando o potencial
+                            colaboração.<br /> Estamos aqui para transformar ideias em realidade, explorando <br /> o
+                            potencial
                             criativo e construindo um futuro inovador.
                         </h5>
                     </div>
@@ -223,7 +198,7 @@
             <!-- end container -->
         </section>
         <!-- end testimonials -->
-        <section class="team">
+        <!-- <section class="team">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-6 wow" data-splitting>
@@ -231,20 +206,20 @@
                             NOSSO TIME<br />
                             TÁ-ON
                         </h3>
-                    </div>
-                    <!-- end col-8 -->
-                    <div class="col-lg-6 wow" data-splitting>
+                    </div> -->
+        <!-- end col-8 -->
+        <!-- <div class="col-lg-6 wow" data-splitting>
                         <h5>
                             Na Tá-ON Agência 360, somos uma equipe apaixonada pela
                             publicidade digital. Nossos profissionais são entusiastas,
                             buscando constantemente inovação e aprimoramento para entregar
                             resultados excepcionais. Mergulhamos de cabeça em cada projeto,
                             transformando ideias em realidade.
-                    </div>
-                    <!-- end col-4 -->
-                </div>
-                <!-- end row -->
-                <div class="row">
+                    </div> -->
+        <!-- end col-4 -->
+        <!-- </div> -->
+        <!-- end row -->
+        <!-- <div class="row">
                     <div class="col">
                         <figure class="reveal-effect masker wow">
                             <ul>
@@ -264,10 +239,10 @@
                                 <small>HEAD DE CONEXÕES E DESENVOLVIMENTO</small>
                             </figcaption>
                         </figure>
-                    </div>
-                    <!-- end col -->
+                    </div> -->
+        <!-- end col -->
 
-                    <div class="col">
+        <!-- <div class="col">
                         <figure class="reveal-effect masker wow">
                             <ul>
                                 <li>
@@ -286,10 +261,10 @@
                                 <small>HEAD DE CONEXÕES E DESENVOLVIMENTO</small>
                             </figcaption>
                         </figure>
-                    </div>
-                    <!-- end col -->
+                    </div> -->
+        <!-- end col -->
 
-                    <div class="col">
+        <!-- <div class="col">
                         <figure class="reveal-effect masker wow">
                             <ul>
                                 <li>
@@ -308,9 +283,9 @@
                                 <small>HEAD DE CONEXÕES E DESENVOLVIMENTO</small>
                             </figcaption>
                         </figure>
-                    </div>
-                    <!-- end col -->
-                    <div class="col">
+                    </div> -->
+        <!-- end col -->
+        <!-- <div class="col">
                         <figure class="reveal-effect masker wow">
                             <ul>
                                 <li>
@@ -329,9 +304,9 @@
                                 <small>HEAD DE CONEXÕES E DESENVOLVIMENTO</small>
                             </figcaption>
                         </figure>
-                    </div>
-                    <!-- end col -->
-                    <div class="col">
+                    </div> -->
+        <!-- end col -->
+        <!-- <div class="col">
                         <figure class="reveal-effect masker wow">
                             <ul>
                                 <li>
@@ -350,13 +325,13 @@
                                 <small>HEAD DE CONEXÕES E DESENVOLVIMENTO</small>
                             </figcaption>
                         </figure>
-                    </div>
-                    <!-- end col -->
-                </div>
-                <!-- end row -->
-            </div>
-            <!-- end container -->
-        </section>
+                    </div> -->
+        <!-- end col -->
+        <!-- </div> -->
+        <!-- end row -->
+        <!-- </div> -->
+        <!-- end container -->
+        <!-- </section> -->
         <!-- end team -->
     </main>
     <!-- end main -->
