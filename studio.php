@@ -49,11 +49,12 @@
                             iniciamos nosso dia,
                             imersos em um mundo cada vez
                             mais
-                            conectado. <br /> Nosso cotidiano está mergulhado no universo do <b
+                            conectado.
+                            Nosso cotidiano está mergulhado no universo do <b
                                 style="font-weight: bold;color: #4db249 ">ON</b>, e nós somos
                             parte de
                             uma
-                            geração que está atenta ao novo, <br /> ao único e personalizado. Com esse olhar,
+                            geração que está atenta ao novo, ao único e personalizado. Com esse olhar,
                             valorizamos a sua
                             marca, criando laços e encurtando distâncias.
                         </h5>
@@ -63,25 +64,26 @@
                             O <b style="font-weight: bold;color: #4db249 ">ON</b> nos fortalece, impulsiona a gerar
                             conexões entre a sua
                             empresa e o seu cliente.
-                            Através dessas conexões, <br /> aprendemos e evoluímos, tornando nosso <b
+                            Através dessas conexões, aprendemos e evoluímos, tornando nosso <b
                                 style="font-weight: bold;color: #4db249 ">ON</b> mais humano
                             a cada
                             dia.
-                            Acreditamos na criação coletiva,<br /> inventiva, acolhedora e surpreendente. Cada projeto
+                            Acreditamos na criação coletiva, inventiva, acolhedora e surpreendente. Cada projeto
                             que nos
-                            envolvemos é um universo diferente,<br /> repleto de possibilidades, pois o <b
+                            envolvemos é um universo diferente, repleto de possibilidades, pois o <b
                                 style="font-weight: bold;color: #4db249 ">ON</b> não
                             conhece
                             limites.
-                            <br />
-                            <br />
-                            <br />
+                        </h5>
+                    </div>
+                    <div class="col-12 wow" data-splitting>
+                        <h5 style="text-align: center;padding-right: 0px">
                             Então, você está on? Está pronto para embarcar nessa jornada de conexões e valorização da
-                            sua marca?<br /> Junte-se a nós, uma geração que vive intensamente o <b
+                            sua marca? Junte-se a nós, uma geração que vive intensamente o <b
                                 style="font-weight: bold;color: #4db249 ">ON</b> e acredita no
                             poder
                             da
-                            colaboração.<br /> Estamos aqui para transformar ideias em realidade, explorando <br /> o
+                            colaboração. Estamos aqui para transformar ideias em realidade, explorando o
                             potencial
                             criativo e construindo um futuro inovador.
                         </h5>
