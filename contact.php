@@ -39,7 +39,7 @@
                     <div class="col-lg-4 col-md-6">
                         <h6>Sede Central</h6>
                         <address>
-                            Rua Diamantino, Nº5 | Mooca<br>
+                            Rua Guilherme Ellis, Nº95 <br> Belenzinho |
                             São Paulo - SP
                         </address>
                     </div>
@@ -54,9 +54,7 @@
                     <!-- end col-3 -->
                     <div class="col-lg-5">
                         <div class="map">
-                            <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.9642729981043!2d-46.5782233499931!3d-23.542140870087385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5e0db34e2a37%3A0xb4b8c78de963ae0d!2sR.%20Diamantino%2C%205%20-%20Quarta%20Parada%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2003174-070%2C%20Brasil!5e0!3m2!1spt-BR!2sus!4v1625152887299!5m2!1spt-BR!2sus"
-                                style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3657.601428470774!2d-46.596111699999994!3d-23.546833700000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5933acb46c09%3A0x4f23654fc925d3d!2sRua%20Dr.%20Guilherme%20Ellis%2C%2095%20-%20Belenzinho%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2003163-080!5e0!3m2!1spt-PT!2sbr!4v1694035854374!5m2!1spt-PT!2sbr" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                         </div>
                         <!-- end map -->
                     </div>
